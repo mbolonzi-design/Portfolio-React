@@ -3,7 +3,14 @@ import React from 'react';
 function Home() {
     return (
         <div>
-            <p>Hi, Friends</p>
+            <h3>Hi, Friends</h3>
+            <p>
+                I am a software developer with a passion for building web applications.
+                I am also a graduate of the <a href="https://moringaschool.com/" target="_blank" rel="noopener noreferrer">Moringa School</a> Full Stack Web Development program.
+                I am a self-taught programmer with a background in Computer Science and a passion for learning.
+                I am always looking for new opportunities to learn and grow as a developer.
+                If you are interested in working with me, please feel free to contact me.
+            </p>
         </div>
     );
 }
