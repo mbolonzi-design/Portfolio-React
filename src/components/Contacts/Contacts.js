@@ -37,6 +37,7 @@ function Contacts () {
 
   return (
     <div className='contact-form'>
+      <h3>Send me an email!.</h3>
       <form onSubmit={sendEmail}>
         <Form.Field
           id='form-input-control-email'
