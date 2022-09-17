@@ -4,7 +4,7 @@ import './Home.css';
 function Home() {
     return (
         <div className='intro'>
-            <h3>Hi, Friends</h3>
+            <h3>Hi, there</h3>
             <p>
                 I am a software developer with a passion for building web applications.
                 I am also a graduate of the <a href="https://moringaschool.com/" target="_blank" rel="noopener noreferrer">Moringa School</a> Full Stack Web Development program.
