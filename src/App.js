@@ -14,9 +14,7 @@ function App() {
       < Home />
       <hr />
       < About />
-      <hr />
       < Projects />
-      <hr />
       < Contacts />
 
       {/* <Router>
