@@ -1,5 +1,13 @@
 .hero{
     color: #fff;
+    background: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 1.5rem;
 }
 .hero h3{
     display: block;
@@ -12,4 +20,22 @@
     text-align: center;
     font-size: 22px;
     margin-top: 20px;
+}
+
+.get-social{
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.get-social a{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.get-social a:hover{
+    color: rgb(33, 38, 82);
+    transition: 0.5s;
 }
