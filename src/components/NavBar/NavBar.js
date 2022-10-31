@@ -6,9 +6,6 @@ function NavBar() {
     return (
         <div>
             <nav>
-                <div>
-                    <span>Mbolonzi</span>
-                </div>
                 <ul>
                     <li><NavLink exact to="/">Home</NavLink></li>
                     <li><NavLink exact to="/about">About</NavLink></li>
