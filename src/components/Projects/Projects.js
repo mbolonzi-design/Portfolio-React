@@ -3,7 +3,9 @@ import './Projects.css';
 function Projects() {
   return (
     <div>
-      <h4>Projects</h4>
+      <div>
+        <h2>Portfolio</h2>
+      </div>
       <div id="projects">
         <div className="project-card">
           <img src="/images/dest2.jpg" alt="project" />

@@ -4,6 +4,9 @@ import './About.css';
 function About() {
   return (
     <div>
+      <div>
+        <h2>About Me</h2>
+      </div>
         <div id="profile">
             <div className="profile-image">
               <img src="/images/me.jpg" alt="Mbolonzi" />
