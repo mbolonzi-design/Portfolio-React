@@ -36,6 +36,6 @@
 }
 
 .get-social a:hover{
-    color: rgb(33, 38, 82);
+    color: #3f51b5;
     transition: 0.5s;
 }
