@@ -2,11 +2,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 13px rgba(27, 26, 26, 0.2);
 }
 
 #profile img{
-    width: 450px;
+    width: 400px;
     height: auto;
     border-radius: 50%;
     border-style: groove;
