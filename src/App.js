@@ -6,7 +6,7 @@ import Projects from './components/Projects/Projects';
 import Contacts from './components/Contacts/Contacts';
 import NavBar from './components/NavBar/NavBar';
 import './App.css';
-import Footer from './components/Footer/Footer';
+//import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/contacts" element={<Contacts />} />
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
       </Router>
     </div>
   );
