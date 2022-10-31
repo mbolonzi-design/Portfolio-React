@@ -13,7 +13,7 @@ function About() {
             </div>
             <div className="desc">
               <p>
-                  I am a software developer from with a passion for building web applications.
+                  I am a software developer with a passion for building web applications.
                   I am also a graduate of the <a href="https://moringaschool.com/" target="_blank" rel="noopener noreferrer">Moringa School</a> Full Stack Web Development program.
                   I have a background in Computer Science. I enjoy solving real world problems with some lines of code.
                   I am always looking for new opportunities to learn and grow as a developer.
