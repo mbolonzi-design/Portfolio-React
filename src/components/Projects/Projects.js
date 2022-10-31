@@ -4,19 +4,42 @@ function Projects() {
   return (
     <div>
       <h4>Projects</h4>
-      <div className="project">
-        <div className="project-image">
-          <img src="/images/bg03.jpg" alt="project" />
+      <div id="projects">
+        <div className="project-card">
+          <img src="/images/dest2.jpg" alt="project" />
           <div className="desc">
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi, nisi?
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, tempore.
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, dolore.
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, illum.
             </p>
           </div>
-          <img src="/images/bg04.jpg" alt="bg2" />
-          <img src="/images/bg06.jpg" alt="bg4" />
+        </div>
+        <div className="project-card">
+          <img src="/images/dest1.jpg" alt="project" />
+          <div className="desc">
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi, nisi?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, tempore.
+            </p>
+          </div>
+        </div>
+        <div className="project-card">
+          <img src="/images/bg07.jpg" alt="project" />
+          <div className="desc">
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi, nisi?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, tempore.
+            </p>
+          </div>
+        </div>
+        <div className="project-card">
+          <img src="/images/dest3.jpg" alt="project" />
+          <div className="desc">
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi, nisi?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, tempore.
+            </p>
+          </div>
         </div>
       </div>
     </div>
