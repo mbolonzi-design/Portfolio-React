@@ -1,0 +1,20 @@
+#profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#profile img{
+    width: 450px;
+    height: auto;
+    border-radius: 50%;
+    border-style: groove;
+}
+
+.desc p{
+    max-width: 800px;
+    font-size: 24px;
+    line-height: 42px;
+    padding-left: 20px;
+}
